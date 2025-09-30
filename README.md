@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bl4ck3d@ndevelopment.org) 
+[![NostalgicDevelopment](https://img.shields.io/badge/NostalgicDevelopment-808080?logo=https://raw.githubusercontent.com/B14ck3D/B14ck3D/main/n1.png&logoWidth=20&logoColor=white)](https://ndevelopment.org/)
 
 
 # 💻 Tech Stack:
